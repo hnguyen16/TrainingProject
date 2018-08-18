@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using TrainingProject.Models;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
@@ -48,14 +49,19 @@ namespace TrainingProject
         {
             //  Instantiate new people object. 
             //  name = Thi, age = 1000, weight = 200, spouse = ChunChun, numList = list with value 1,2,3,4,5,6,7,8,9,10
+
+
+            //  Instantiate new people object. 
             //  name = ChunChun, age = 2000, weight = 20, spouse = Thi, numList = list with value 10,9,8,7,6,5,4,3,2,1
+
+
             //  Create a list and add these two People to the list. 
 
 
+            //  TODO: loop through your list of people and set Thi's age to 10, print out his age. 
 
-            //  TODO: Set Thi's age to 10, print out his age. 
-
-            //  TODO:  
+            //  TODO:  Set up recursion method to remove values from list
+            //  I will have to explain this one to you.  
         }
 
     }
